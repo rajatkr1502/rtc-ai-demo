@@ -1,0 +1,55 @@
+# Maven build directories
+target/
+*/target/
+
+# Maven build files
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# NetBeans project files
+/nb-configuration.xml
+/nbactions.xml
+
+# Logs
+*.log
+log/
+log4j2.xml
+
+# Temporary files
+*~
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled Java classes
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# maven-war-plugin
+target/maven-status/
+target/war/work/
+
+# m2e
+.m2e/
+.settings/
