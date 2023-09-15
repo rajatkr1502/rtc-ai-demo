@@ -29,7 +29,7 @@ public class ChatGpt_Helper {
 		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++");
 		System.out.println(new JsonPath(response.asString()).getString("result"));
 		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++");
-		System.out.println("++ For Testing Purpose (c) Powered by ChatGPT ++");
+		System.out.println("  ++ For Testing Purpose (c) Powered by ChatGPT ++");
 		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++");
 	}
 	
